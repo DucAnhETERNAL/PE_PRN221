@@ -1,0 +1,39 @@
+﻿@page
+@model BookWeb.Pages.Admin.BooksModel
+@{
+    Layout = "~/Pages/Admin/Layout/_LayoutAdmin.cshtml";
+    ViewData["Title"] = "Book Management";
+}
+
+<h2>Book Management</h2>
+<a asp-page="CreateBook" class="btn btn-primary mb-3">Create New Book</a>
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Book ID</th>
+            <th>Book Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.BooksList)
+        {
+            <tr>
+                <td>@book.BookID</td>
+                <td>@book.BookName</td>
+                <td>@book.Price</td>
+                <td>@book.CategoryName</td>
+                <td>
+                    <a asp-page="EditBook" asp-route-id="@book.BookID" class="btn btn-warning">Edit</a>
+                    <form asp-page-handler="Delete" method="post" asp-route-id="@book.BookID" style="display:inline">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

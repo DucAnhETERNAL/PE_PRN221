@@ -1,0 +1,43 @@
+﻿@page "{id:int}"
+@model BookWeb.Pages.OrderBookModel
+@{
+    ViewData["Title"] = "Order Book";
+}
+
+<style>
+    h2, h4 {
+        color: #d63384; /* Pink color for headers */
+    }
+
+    div {
+        background-color: #ffe6f2; /* Light pink background */
+        padding: 20px;
+        border-radius: 8px;
+        border: 1px solid #ffb3c6; /* Light pink border */
+    }
+
+    p {
+        color: #5a5a5a; /* Neutral color for text */
+    }
+
+    .btn-success {
+        background-color: #d63384; /* Pink color for the button */
+        border-color: #d63384;
+    }
+
+        .btn-success:hover {
+            background-color: #c2185b; /* Darker pink for hover effect */
+            border-color: #c2185b;
+        }
+</style>
+
+<h2>Order Book</h2>
+<div>
+    <h4>@Model.Book.BookName</h4>
+    <p><strong>Category:</strong> @Model.Book.Category.CategoryName</p>
+    <p><strong>Price:</strong> $@Model.Book.Price</p>
+</div>
+<form method="post">
+    <input type="hidden" asp-for="BookID" />
+    <button type="submit" class="btn btn-success">Confirm Order</button>
+</form>

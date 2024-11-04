@@ -1,0 +1,78 @@
+﻿@page
+@model BookWeb.Pages.ShippingHistoryModel
+@{
+    ViewData["Title"] = "Shipping History";
+}
+
+<style>
+    h2 {
+        color: #d63384; /* Pink color for the header */
+    }
+
+    table.table {
+        background-color: #ffe6f2; /* Light pink background for the table */
+        border-color: #ffb3c6; /* Light pink border */
+    }
+
+        table.table th {
+            background-color: #ffb3c6; /* Slightly darker pink for table headers */
+            color: white;
+        }
+
+        table.table td {
+            background-color: #fff0f5; /* Lighter pink for table cells */
+        }
+
+    .btn-danger {
+        background-color: #d63384; /* Pink color for the 'Delete' button */
+        border-color: #d63384;
+    }
+
+        .btn-danger:hover {
+            background-color: #c2185b; /* Darker pink for hover effect */
+            border-color: #c2185b;
+        }
+
+    p {
+        color: #5a5a5a; /* Neutral color for text */
+    }
+</style>
+
+<h2>Shipping History</h2>
+
+@if (Model.ShippingList.Any())
+{
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Book Name</th>
+                <th>Date Order</th>
+                <th>Date Ship</th>
+                <th>Approved By</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ship in Model.ShippingList)
+            {
+                <tr>
+                    <td>@ship.BookName</td>
+                    <td>@ship.DateOrder.ToShortDateString()</td>
+                    <td>@(ship.DateShip.HasValue ? ship.DateShip.Value.ToShortDateString() : "Pending")</td>
+                    <td>@ship.UserApproveName</td>
+                    <td>@ship.Status</td>
+                    <td>
+                        <form method="post" asp-page-handler="Delete" asp-route-id="@ship.ShipID">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No shipping history available.</p>
+}

@@ -1,0 +1,36 @@
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\appsettings.json
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\LibraryRepositories.deps.json
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\LibraryRepositories.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\LibraryRepositories.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.csproj.AssemblyReference.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.AssemblyInfoInputs.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.AssemblyInfo.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.csproj.CopyComplete
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\refint\LibraryRepositories.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\ref\LibraryRepositories.dll
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\appsettings.json
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\LibraryRepositories.deps.json
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\LibraryRepositories.dll
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\LibraryRepositories.pdb
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\BusinessLayer.dll
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\DataAccessLayer.dll
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\BusinessLayer.pdb
+D:\Sem7\PE_PRN221\LibraryRepositories\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.csproj.AssemblyReference.cache
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.AssemblyInfoInputs.cache
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.AssemblyInfo.cs
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.csproj.CoreCompileInputs.cache
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.csproj.CopyComplete
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.dll
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\refint\LibraryRepositories.dll
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\LibraryRepositories.pdb
+D:\Sem7\PE_PRN221\LibraryRepositories\obj\Debug\net7.0\ref\LibraryRepositories.dll

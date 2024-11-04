@@ -1,0 +1,47 @@
+﻿@page
+@model BookWeb.Pages.Admin.OrderManagementModel
+@{
+    Layout = "~/Pages/Admin/Layout/_LayoutAdmin.cshtml";
+    ViewData["Title"] = "Order Management";
+}
+
+<h2>Order Management</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Book Name</th>
+            <th>Date Order</th>
+            <th>Date Ship</th>
+            <th>User Order</th>
+            <th>User Approve</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.OrdersList)
+        {
+            <tr>
+                <td>@order.BookName</td>
+                <td>@order.DateOrder.ToShortDateString()</td>
+                <td>@(order.DateShip.HasValue ? order.DateShip.Value.ToShortDateString() : "Pending")</td>
+                <td>@order.UserOrderName</td>
+                <td>@order.UserApproveName</td>
+                <td>@order.Status</td>
+                <td>
+                    @if (order.Status == "Pending")
+                    {
+                        <form method="post" asp-page-handler="Confirm" asp-route-id="@order.ShipID" class="d-inline">
+                            <button type="submit" class="btn btn-success">Confirm</button>
+                        </form>
+                    }
+                    <form method="post" asp-page-handler="Delete" asp-route-id="@order.ShipID" class="d-inline">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,28 @@
+﻿@page
+@model BookWeb.Pages.Admin.CreateBookModel
+@{
+     Layout = "~/Pages/Admin/Layout/_LayoutAdmin.cshtml";
+    ViewData["Title"] = "Create Book";
+}
+
+<h2>Create Book</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Book.BookName"></label>
+        <input asp-for="Book.BookName" class="form-control" />
+        <span asp-validation-for="Book.BookName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Book.Price"></label>
+        <input asp-for="Book.Price" class="form-control" />
+        <span asp-validation-for="Book.Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Category</label>
+        <select asp-for="Book.CategoryID" class="form-control" asp-items="@(new SelectList(Model.CategoriesList, "CategoryID", "CategoryName"))"></select>
+    </div>
+    <button type="submit" class="btn btn-success">Create</button>
+    <a asp-page="Books" class="btn btn-secondary">Cancel</a>
+</form>

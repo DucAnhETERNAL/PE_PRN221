@@ -1,0 +1,172 @@
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.csproj.AssemblyReference.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp_MarkupCompile.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp_MarkupCompile.lref
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.exe
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\appsettings.json
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.deps.json
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.runtimeconfig.json
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BusinessLayer.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\LibraryRepositories.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BusinessLayer.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\LibraryRepositories.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.g.resources
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.AssemblyInfoInputs.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.AssemblyInfo.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.csproj.CopyComplete
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\refint\BookWPFApp.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.pdb
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.genruntimeconfig.cache
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\ref\BookWPFApp.dll
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Login.baml
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Customer\HomeCustomer.baml
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Customer\HomeCustomer.g.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Admin\HomeAdmin.g.cs
+C:\Users\Truong Van Tin\source\repos\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Admin\HomeAdmin.baml
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.exe
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\appsettings.json
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.deps.json
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.runtimeconfig.json
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BookWPFApp.pdb
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BusinessLayer.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\DataAccessLayer.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\LibraryRepositories.dll
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\BusinessLayer.pdb
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\LibraryRepositories.pdb
+D:\Sem7\PE_PRN221\BookWPFApp\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.csproj.AssemblyReference.cache
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Customer\HomeCustomer.baml
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Admin\HomeAdmin.g.cs
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Customer\HomeCustomer.g.cs
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Login.g.cs
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\App.g.cs
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp_MarkupCompile.cache
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp_MarkupCompile.lref
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Admin\HomeAdmin.baml
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\Login.baml
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.g.resources
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.AssemblyInfoInputs.cache
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.AssemblyInfo.cs
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.csproj.CoreCompileInputs.cache
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.csproj.CopyComplete
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.dll
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\refint\BookWPFApp.dll
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.pdb
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\BookWPFApp.genruntimeconfig.cache
+D:\Sem7\PE_PRN221\BookWPFApp\obj\Debug\net7.0-windows\ref\BookWPFApp.dll

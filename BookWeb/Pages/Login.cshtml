@@ -1,0 +1,52 @@
+﻿@page
+@model BookWeb.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    .card {
+        background-color: pink;
+        border: none;
+    }
+
+    .btn-primary {
+        background-color: #d63384; /* A darker pink for the button */
+        border-color: #d63384;
+    }
+
+        .btn-primary:hover {
+            background-color: #c2185b; /* Slightly darker for hover effect */
+            border-color: #c2185b;
+        }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h2>Login</h2>
+                </div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="form-group mb-3">
+                            <label asp-for="Username" class="form-label"></label>
+                            <input asp-for="Username" class="form-control" />
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="Password" class="form-label"></label>
+                            <input asp-for="Password" type="password" class="form-control" />
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Login</button>
+
+                        @if (Model.ErrorMessage != null)
+                        {
+                            <div class="alert alert-danger mt-3">@Model.ErrorMessage</div>
+                        }
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
